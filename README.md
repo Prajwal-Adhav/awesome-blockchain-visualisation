@@ -51,6 +51,7 @@ List of content
 * [Cryptowatch](https://cryptowat.ch)
 
 # Companies
+* [Bitquery](https://bitquery.io/)
 * [Chainanalysis](https://www.chainalysis.com/)
 * [Elliptic.co](https://www.elliptic.co/)
 
