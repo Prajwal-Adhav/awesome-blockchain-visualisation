@@ -51,7 +51,7 @@ List of content
 * [Cryptowatch](https://cryptowat.ch)
 
 # Companies
-* [Bitquery](https://bitquery.io/)
+* [Bitquery](https://bitquery.io/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
 * [Chainanalysis](https://www.chainalysis.com/)
 * [Elliptic.co](https://www.elliptic.co/)
 
